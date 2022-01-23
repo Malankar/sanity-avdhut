@@ -28,4 +28,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 https://sanity-avdhut-fgfaqiy4d-malankar.vercel.app/
 
-https://sanity-avdhut.sanity.studio/desk/comment;5qW0iWY4aLvuOUkSrYhJwE
+https://sanity-avdhut.sanity.studio/desk
